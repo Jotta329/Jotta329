@@ -1,9 +1,2 @@
-- 👋 Olá, Eu sou @Jotta329
-- 👀 Não sei programar ...
-- 🌱 Mas estou aprendendo ...
-- 💞️ Eu colaboro com todos, me chamem ...
-
-<!---
-Jotta329/Jotta329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛒 Bots Discord por Encomenda
+💻 Typescript e Javascript
